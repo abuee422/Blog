@@ -25,9 +25,9 @@ link="plugins/customCss/main.css"
 
 # -- JS Plugins --
 [[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
 
 # site variables
 [params.variables]
