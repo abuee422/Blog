@@ -8,9 +8,7 @@ social:
     social_links:
         - link: https://t.me/FOSSFA
           img: /images/contact/FF.jpg
-        - link: https://t.me/FOSS_Pors
-          img: /images/contact/FP.jpg
-        - link: https://t.me/FOSS_Gap
+        - link: https://t.me/FOSS_Club
           img: /images/contact/FG.jpg
 ---
 
